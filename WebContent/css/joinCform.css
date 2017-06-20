@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+#formm{
+	position : absolute;
+		margin-left: 300px;
+		margin-top: 20px;
+}
+label{padding:100px; }
+body { margin-top:20px; margin-left:30px; font-family:맑은고딕,돋움,굴림;
+			 color:#888888; font-size:8pt;}
+table {border-collapse:collapse;font-size:11pt;margin-left:0;}
+img {border:none;}
+select {font-size:8pt;font-family:맑은고딕,돋움,굴림;height:18pt;}
+option {border:#cccccc solid 1px; font-family:돋움,굴림; color:#888888; font-size:8pt;}
+input {height:18px;}
+tr,td{padding-left:20px;text-align:left;
+		 background-image:url("../images/member/dot.gif)";background-repeat:no-repeat;
+		 background-position:left;border-bottom:#eeeeee solid 1px;}
+
+
+/* #pink_line {margin-left:"0";}
+#member_button {margin-top:10px;text-align:center;} */
+#id,#name,#passwd,#passwd1,#birth,#email {width:150px;height:8px;}
+#mobile1,#mobile2,#tel_h2_2 {width:68px;}

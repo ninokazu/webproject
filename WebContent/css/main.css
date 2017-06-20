@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+body{
+		margin : 0px 0px 0px 0px;
+		padding : 0px 0px 0px 0px;
+ 
+ }
+#main {
+		position : absolute;
+		margin : 0px 0px 0px 0px;
+		padding : 0px 0px 0px 0px;
+		width:100%;
+		
+		}
+		
+#left{
+		position : absolute;
+	}		
+#left>img{
+	
+	max-width: 100%;
+		}
+#right{position : relative;
+		float : right;}		
+#right>img{
+			opacity: 0.85;}
+			
+#login_form{
+			position:relative;
+			float:right;
+			margin-top: -500px;
+			margin-right: 150px;
+			}
+			
+#budiv{
+	position :relative ;
+	margin-top: -320px;
+	float:right;
+	margin-right: 150px;
+	
+}
+
+#loginmain{
+	position:relative;
+}
